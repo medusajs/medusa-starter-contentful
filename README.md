@@ -32,6 +32,18 @@ This starter has prerequisites and most of these will usually already be install
 - [Install SQLite](https://www.sqlite.org/download.html)
 - [Install Redis](https://redis.io/download)
 
+## Setting up your store
+- Install the Medusa CLI
+  ```
+  npm install -g @medusajs/medusa
+  yarn global add @medusajs/medusa
+  ```
+- Create a new Medusa project
+  ```
+  medusa new medusa-contentful https://github.com/medusajs/medusa-starter-contentful
+  cd medusa-contentful
+  ```
+
 ## Setting up Contentful
 - [Create a Contentful account](https://www.contentful.com/sign-up)
 - Create a Contentful Space
@@ -42,26 +54,24 @@ This starter has prerequisites and most of these will usually already be install
   CONTENTFUL_ACCESS_TOKEN=[your personal access token]
   ```
 - Set up webhook (optional)
+- Migrate & seed Contentful space
+  ```
+  yarn migrate:contentful
+  yarn seed:contentful
+  ```
 
-## Setting up your store
-- Install the Medusa CLI
+## Run your project
   ```
-  npm install -g @medusajs/medusa
-  yarn global add @medusajs/medusa
-  ```
-- Create a new Medusa project
-  ```
-  medusa new medusa-contentful https://github.com/medusajs/medusa-starter-contentful
-  ```
-- Run your project
-  ```
-  cd medusa-contentful
   medusa develop
   ```
 
 Your local Medusa server is now running on port **9000**. 
 
 Everytime you create or update Products, Product Variants or Regions Contentful and Medusa data will be synced.
+
+## What's inside
+This starter uses `medusa-plugin-contentful` to synchronize data between your Medusa store and your Contentful space
+
 
 ## Try it out
 
