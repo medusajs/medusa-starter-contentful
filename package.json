@@ -1,10 +1,13 @@
 {
-  "name": "medusa-starter-default",
+  "name": "medusa-starter-contentful",
   "version": "0.0.1",
   "description": "A starter for Medusa projects.",
   "author": "Sebastian Rindom <skrindom@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "setup": "./contentful-migrations/index.js",
+    "import:contentful": "contentful space import --space-id $CONTENTFUL_SPACE_ID --mt $CONTENTFUL_ACCESS_TOKEN --content-file  ./data/contentful-seed.json",
+    "seed:contentful": "dotenv-run-script .env -- import:contentful",
     "seed": "medusa seed -f ./data/seed.json",
     "build": "babel src -d dist --extensions \".ts,.js\"",
     "start": "medusa develop"
@@ -12,6 +15,7 @@
   "dependencies": {
     "@medusajs/medusa": "^1.1.37",
     "@medusajs/medusa-cli": "^1.1.16",
+    "dotenv-run-script": "^0.1.0",
     "medusa-fulfillment-manual": "^1.1.20",
     "medusa-interfaces": "^1.1.21",
     "medusa-payment-manual": "^1.0.2",
@@ -20,8 +24,9 @@
     "mongoose": "^5.13.3",
     "typeorm": "^0.2.36"
   },
-  "repository": "https://github.com/medusajs/medusa-starter-default.git",
+  "repository": "https://github.com/medusajs/medusa-starter-contentful.git",
   "keywords": [
+    "contentful",
     "sqlite",
     "ecommerce",
     "headless",
@@ -32,6 +37,7 @@
     "@babel/core": "^7.14.3",
     "@babel/preset-typescript": "^7.14.5",
     "babel-preset-medusa-package": "^1.1.13",
+    "contentful-cli": "^1.8.23",
     "contentful-migration": "^4.2.5",
     "dotenv": "^10.0.0"
   }

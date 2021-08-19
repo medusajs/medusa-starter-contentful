@@ -8,7 +8,7 @@ module.exports = function (migration, context) {
   link.createField("linkTo").name("Link To").type("Symbol");
   link
     .createField("reference")
-    .name("reference")
+    .name("Reference")
     .type("Link")
     .linkType("Entry")
     .validations([{ linkContentType: ["page", "product"] }]);

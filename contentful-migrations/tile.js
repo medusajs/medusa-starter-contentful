@@ -14,7 +14,7 @@ module.exports = function (migration, context) {
     .linkType("Entry")
     .validations([
       {
-        linkContentType: ["navigationItem"],
+        linkContentType: ["link"],
       },
     ]);
 };

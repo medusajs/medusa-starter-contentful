@@ -1,0 +1,2994 @@
+{
+  "entries": [
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "reg_01FDAYAGKAFD8HPDA3HASAYS49",
+        "type": "Entry",
+        "createdAt": "2021-08-17T20:55:05.106Z",
+        "updatedAt": "2021-08-18T09:01:59.076Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2021-08-18T09:01:59.076Z",
+        "firstPublishedAt": "2021-08-18T09:01:59.076Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "region"
+          }
+        }
+      },
+      "fields": {
+        "name": {
+          "en-US": "Default Region"
+        },
+        "countries": {
+          "en-US": [
+            {
+              "id": 60,
+              "iso_2": "dk",
+              "iso_3": "dnk",
+              "num_code": 208,
+              "name": "DENMARK",
+              "display_name": "Denmark",
+              "region_id": "reg_01FDAYAGKAFD8HPDA3HASAYS49"
+            },
+            {
+              "id": 75,
+              "iso_2": "fr",
+              "iso_3": "fra",
+              "num_code": 250,
+              "name": "FRANCE",
+              "display_name": "France",
+              "region_id": "reg_01FDAYAGKAFD8HPDA3HASAYS49"
+            },
+            {
+              "id": 82,
+              "iso_2": "de",
+              "iso_3": "deu",
+              "num_code": 276,
+              "name": "GERMANY",
+              "display_name": "Germany",
+              "region_id": "reg_01FDAYAGKAFD8HPDA3HASAYS49"
+            },
+            {
+              "id": 109,
+              "iso_2": "it",
+              "iso_3": "ita",
+              "num_code": 380,
+              "name": "ITALY",
+              "display_name": "Italy",
+              "region_id": "reg_01FDAYAGKAFD8HPDA3HASAYS49"
+            },
+            {
+              "id": 209,
+              "iso_2": "es",
+              "iso_3": "esp",
+              "num_code": 724,
+              "name": "SPAIN",
+              "display_name": "Spain",
+              "region_id": "reg_01FDAYAGKAFD8HPDA3HASAYS49"
+            },
+            {
+              "id": 215,
+              "iso_2": "se",
+              "iso_3": "swe",
+              "num_code": 752,
+              "name": "SWEDEN",
+              "display_name": "Sweden",
+              "region_id": "reg_01FDAYAGKAFD8HPDA3HASAYS49"
+            },
+            {
+              "id": 235,
+              "iso_2": "gb",
+              "iso_3": "gbr",
+              "num_code": 826,
+              "name": "UNITED KINGDOM",
+              "display_name": "United Kingdom",
+              "region_id": "reg_01FDAYAGKAFD8HPDA3HASAYS49"
+            }
+          ]
+        },
+        "paymentProviders": {
+          "en-US": [
+            {
+              "id": "manual",
+              "is_installed": true
+            }
+          ]
+        },
+        "fulfillmentProviders": {
+          "en-US": [
+            {
+              "id": "manual",
+              "is_installed": true
+            }
+          ]
+        },
+        "medusaId": {
+          "en-US": "reg_01FDAYAGKAFD8HPDA3HASAYS49"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "717XfjzeXVpYhxD4IKPncQ",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:49:12.528Z",
+        "updatedAt": "2021-08-18T08:51:51.891Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2021-08-18T08:51:51.891Z",
+        "firstPublishedAt": "2021-08-18T08:51:51.891Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "hero"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Medusa Starter Contentful"
+        },
+        "cta": {
+          "en-US": "Go to Products"
+        },
+        "backgroundImage": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "1uv3dNJbqSm6zkOCmN5qEl"
+            }
+          }
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "54imNOzCkOPmvkT3P0Pe2p"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "54imNOzCkOPmvkT3P0Pe2p",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:50:37.180Z",
+        "updatedAt": "2021-08-18T08:51:39.181Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2021-08-18T08:51:39.181Z",
+        "firstPublishedAt": "2021-08-18T08:51:39.181Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Products"
+        },
+        "reference": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2NSybHklW3gcmdPtnW2B8p"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "2NSybHklW3gcmdPtnW2B8p",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:50:40.830Z",
+        "updatedAt": "2021-08-18T11:57:51.803Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2021-08-18T11:57:51.803Z",
+        "firstPublishedAt": "2021-08-18T08:51:42.378Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Products"
+        },
+        "metaDescription": {
+          "en-US": "Medusa Products"
+        },
+        "contentModules": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "6ewziQzZAftsWIzpmPpwmz"
+              }
+            }
+          ]
+        },
+        "slug": {
+          "en-US": "products"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "6ewziQzZAftsWIzpmPpwmz",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:50:55.639Z",
+        "updatedAt": "2021-08-18T18:20:16.190Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2021-08-18T18:20:16.190Z",
+        "firstPublishedAt": "2021-08-18T08:51:09.847Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "tileSection"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Products"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "pspI4YjlLAicRIWGQssbQ",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:52:00.832Z",
+        "updatedAt": "2021-08-18T09:01:53.173Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2021-08-18T09:01:53.173Z",
+        "firstPublishedAt": "2021-08-18T09:01:53.173Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Home"
+        },
+        "metaDescription": {
+          "en-US": "Welcome to the Medusa Starter Contentful - this will provide you with the skeleton to get you ready for headless commerce!"
+        },
+        "contentModules": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "717XfjzeXVpYhxD4IKPncQ"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "12L7b9SglKteNVnntOn1kZ"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "58Oqjp4iICHCElvsbkhAzj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "12L7b9SglKteNVnntOn1kZ",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:52:47.457Z",
+        "updatedAt": "2021-08-18T18:20:12.216Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2021-08-18T18:20:12.216Z",
+        "firstPublishedAt": "2021-08-18T08:52:57.488Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "tileSection"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Featured Products"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "58Oqjp4iICHCElvsbkhAzj",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:54:40.885Z",
+        "updatedAt": "2021-08-18T08:59:54.119Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2021-08-18T08:59:54.119Z",
+        "firstPublishedAt": "2021-08-18T08:59:54.119Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "tileSection"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Tools Used"
+        },
+        "tiles": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2rMZDP4WlTmYPURxz0Vw6B"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "5UqqX9MSMMXu3piEmk1P1x"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "4zD7dhE1LqPxa21e5ZsyXg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "2rMZDP4WlTmYPURxz0Vw6B",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:54:46.858Z",
+        "updatedAt": "2021-08-18T08:59:45.529Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2021-08-18T08:59:45.529Z",
+        "firstPublishedAt": "2021-08-18T08:55:38.512Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "tile"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Medusa"
+        },
+        "cta": {
+          "en-US": "Go to docs"
+        },
+        "image": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "34YCEf5fYtizXMWyEPiAxX"
+            }
+          }
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6p215H3IvtqRrLfMy2g4gM"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "6p215H3IvtqRrLfMy2g4gM",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:56:34.895Z",
+        "updatedAt": "2021-08-18T08:56:54.153Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2021-08-18T08:56:54.153Z",
+        "firstPublishedAt": "2021-08-18T08:56:54.153Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Medusa Docs"
+        },
+        "linkTo": {
+          "en-US": "https://github.com/medusajs/medusa"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "5UqqX9MSMMXu3piEmk1P1x",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:57:02.939Z",
+        "updatedAt": "2021-08-18T08:58:35.991Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2021-08-18T08:58:35.991Z",
+        "firstPublishedAt": "2021-08-18T08:58:35.991Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "tile"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Gatsby Source Contentful"
+        },
+        "cta": {
+          "en-US": "Go to docs"
+        },
+        "image": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "773wv2hz8ZipaeNx4Hquz4"
+            }
+          }
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6bOVtPj2s5ppN1Y1QCKTCl"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "6bOVtPj2s5ppN1Y1QCKTCl",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:57:49.727Z",
+        "updatedAt": "2021-08-18T08:58:32.429Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T08:58:32.429Z",
+        "firstPublishedAt": "2021-08-18T08:58:32.429Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Gatsby Source Contentful"
+        },
+        "linkTo": {
+          "en-US": "https://www.gatsbyjs.com/plugins/gatsby-source-contentful/"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "4zD7dhE1LqPxa21e5ZsyXg",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:58:40.582Z",
+        "updatedAt": "2021-08-18T08:59:58.228Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2021-08-18T08:59:58.228Z",
+        "firstPublishedAt": "2021-08-18T08:59:58.228Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "tile"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Contentful"
+        },
+        "cta": {
+          "en-US": "Go to docs"
+        },
+        "image": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "7zwDFSsF5nL43retKereCb"
+            }
+          }
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1KZ9H51mvveigzR0SJViTo"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "1KZ9H51mvveigzR0SJViTo",
+        "type": "Entry",
+        "createdAt": "2021-08-18T08:59:15.993Z",
+        "updatedAt": "2021-08-18T08:59:37.338Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2021-08-18T08:59:37.338Z",
+        "firstPublishedAt": "2021-08-18T08:59:37.338Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Contentful Docs"
+        },
+        "linkTo": {
+          "en-US": "https://www.contentful.com/developers/docs/"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "sB1WctSQo4PCTXl0Uq9kx",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:00:41.267Z",
+        "updatedAt": "2021-08-18T11:57:39.077Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2021-08-18T11:57:39.077Z",
+        "firstPublishedAt": "2021-08-18T09:01:47.885Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "About"
+        },
+        "contentModules": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "4btBZYHVwLzsjYyWvUMRGF"
+              }
+            }
+          ]
+        },
+        "slug": {
+          "en-US": "about"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "4btBZYHVwLzsjYyWvUMRGF",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:00:51.323Z",
+        "updatedAt": "2021-08-18T09:01:44.257Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2021-08-18T09:01:44.257Z",
+        "firstPublishedAt": "2021-08-18T09:01:44.257Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "hero"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "About Medusa"
+        },
+        "cta": {
+          "en-US": "Learn more"
+        },
+        "backgroundImage": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "1uv3dNJbqSm6zkOCmN5qEl"
+            }
+          }
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3Mm3QZN4kp4oCfIEOVqH2a"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "3Mm3QZN4kp4oCfIEOVqH2a",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:01:23.751Z",
+        "updatedAt": "2021-08-18T09:01:41.663Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2021-08-18T09:01:41.663Z",
+        "firstPublishedAt": "2021-08-18T09:01:41.663Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Medusa Website"
+        },
+        "linkTo": {
+          "en-US": "https://medusa-commerce.com"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "2eXhTMRRCUCg3EGpoQv66q",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:05:23.848Z",
+        "updatedAt": "2021-08-18T09:06:12.162Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T09:06:12.162Z",
+        "firstPublishedAt": "2021-08-18T09:06:12.162Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "navigationMenu"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Main"
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "1TtEHoBqiMx5YWvbnsKPXo"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "6wEuxBV43HKSqiz3wQ4h89"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "1TtEHoBqiMx5YWvbnsKPXo",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:05:29.074Z",
+        "updatedAt": "2021-08-18T09:05:39.051Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T09:05:39.051Z",
+        "firstPublishedAt": "2021-08-18T09:05:39.051Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "navigationItem"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Products"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "54imNOzCkOPmvkT3P0Pe2p"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "6wEuxBV43HKSqiz3wQ4h89",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:05:42.953Z",
+        "updatedAt": "2021-08-18T09:06:08.730Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2021-08-18T09:06:08.730Z",
+        "firstPublishedAt": "2021-08-18T09:06:08.730Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "navigationItem"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "About"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "74FFKTyU4gqZi00KXHzmg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "74FFKTyU4gqZi00KXHzmg",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:05:47.899Z",
+        "updatedAt": "2021-08-18T09:06:06.127Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T09:06:06.127Z",
+        "firstPublishedAt": "2021-08-18T09:06:06.127Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "About"
+        },
+        "reference": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "sB1WctSQo4PCTXl0Uq9kx"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "3sp6PP4d1z32RiPElYZ8UE",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:06:18.034Z",
+        "updatedAt": "2021-08-18T09:19:55.471Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2021-08-18T09:19:55.471Z",
+        "firstPublishedAt": "2021-08-18T09:19:55.471Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "navigationItem"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Github"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3ICmsXLI90BgEeX3h6xXDM"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "3ICmsXLI90BgEeX3h6xXDM",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:06:25.895Z",
+        "updatedAt": "2021-08-18T09:06:49.896Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2021-08-18T09:06:49.896Z",
+        "firstPublishedAt": "2021-08-18T09:06:49.896Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Gtihub"
+        },
+        "linkTo": {
+          "en-US": "https://www.github.com/medusajs/medusa"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "4OqOOeUlydWVZvaEjT6IFO",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:19:58.096Z",
+        "updatedAt": "2021-08-18T09:20:52.024Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2021-08-18T09:20:52.024Z",
+        "firstPublishedAt": "2021-08-18T09:20:52.024Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "navigationItem"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Website"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3Mm3QZN4kp4oCfIEOVqH2a"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "265srpurEhOMoAkDBkn6HA",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:20:14.915Z",
+        "updatedAt": "2021-08-18T09:20:29.294Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T09:20:29.294Z",
+        "firstPublishedAt": "2021-08-18T09:20:29.294Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Website"
+        },
+        "linkTo": {
+          "en-US": "https://medusa-commerce.com"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "21ug6fpwtERZAih8Q5106M",
+        "type": "Entry",
+        "createdAt": "2021-08-18T09:21:07.417Z",
+        "updatedAt": "2021-08-18T09:21:19.129Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T09:21:19.129Z",
+        "firstPublishedAt": "2021-08-18T09:21:19.129Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "navigationItem"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Docs"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6p215H3IvtqRrLfMy2g4gM"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "5v12zTQbvUaC0a7IacVtmO",
+        "type": "Entry",
+        "createdAt": "2021-08-18T11:36:39.069Z",
+        "updatedAt": "2021-08-18T11:36:53.150Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T11:36:53.150Z",
+        "firstPublishedAt": "2021-08-18T11:36:53.150Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "navigationMenu"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Footer"
+        },
+        "items": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "3sp6PP4d1z32RiPElYZ8UE"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "4OqOOeUlydWVZvaEjT6IFO"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "21ug6fpwtERZAih8Q5106M"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "assets": [
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "qniR2GMq8RAovCdzAEppZ",
+        "type": "Asset",
+        "createdAt": "2021-06-11T13:48:26.756Z",
+        "updatedAt": "2021-06-11T13:48:28.079Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2021-06-11T13:48:28.079Z",
+        "firstPublishedAt": "2021-06-11T13:48:28.079Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Basic T-Shirt - YES"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/qniR2GMq8RAovCdzAEppZ/2f2d424e7dfd36b7c904acb24a33e4cc/http___via.placeholder.com_150",
+            "details": {
+              "size": 373,
+              "image": {
+                "width": 150,
+                "height": 150
+              }
+            },
+            "fileName": "http://via.placeholder.com/150",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "6MpSWzmMKqLa8qFRDGSPBg",
+        "type": "Asset",
+        "createdAt": "2021-06-11T13:52:10.292Z",
+        "updatedAt": "2021-06-11T13:52:11.426Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2021-06-11T13:52:11.426Z",
+        "firstPublishedAt": "2021-06-11T13:52:11.426Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Basic T-Shirt - YES"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/6MpSWzmMKqLa8qFRDGSPBg/4f005fa63cedc9f8d11003e75b039ab3/http___via.placeholder.com_150",
+            "details": {
+              "size": 373,
+              "image": {
+                "width": 150,
+                "height": 150
+              }
+            },
+            "fileName": "http://via.placeholder.com/150",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "1c86hZrSyj7RXtzyUfIlrG",
+        "type": "Asset",
+        "createdAt": "2021-06-11T14:07:07.666Z",
+        "updatedAt": "2021-06-11T14:07:09.259Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2021-06-11T14:07:09.259Z",
+        "firstPublishedAt": "2021-06-11T14:07:09.259Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Basic T-Shirt - YES"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/1c86hZrSyj7RXtzyUfIlrG/48149c434b9b9b8dc4cced3a8b771d28/http___via.placeholder.com_150",
+            "details": {
+              "size": 373,
+              "image": {
+                "width": 150,
+                "height": 150
+              }
+            },
+            "fileName": "http://via.placeholder.com/150",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "5M2fHLzN7OCQvo4rfaB1n1",
+        "type": "Asset",
+        "createdAt": "2021-06-11T14:07:47.044Z",
+        "updatedAt": "2021-06-11T14:07:49.061Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2021-06-11T14:07:49.061Z",
+        "firstPublishedAt": "2021-06-11T14:07:49.061Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Basic T-Shirt - YES"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/5M2fHLzN7OCQvo4rfaB1n1/03c56eb4bf65e6855f33be96c362784b/https___images.ctfassets.net_e864y0payrfo_1c86hZrSyj7RXtzyUfIlrG_48149c434b9b9b8dc4cced3a8b771d28_http___via.placeholder.com_150",
+            "details": {
+              "size": 373,
+              "image": {
+                "width": 150,
+                "height": 150
+              }
+            },
+            "fileName": "https://images.ctfassets.net/e864y0payrfo/1c86hZrSyj7RXtzyUfIlrG/48149c434b9b9b8dc4cced3a8b771d28/http___via.placeholder.com_150",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "1uv3dNJbqSm6zkOCmN5qEl",
+        "type": "Asset",
+        "createdAt": "2021-08-18T08:50:07.686Z",
+        "updatedAt": "2021-08-18T08:50:19.088Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T08:50:19.088Z",
+        "firstPublishedAt": "2021-08-18T08:50:19.088Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Group 4"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/1uv3dNJbqSm6zkOCmN5qEl/616c27e26b5d7759cb455a780d302047/Group_4.png",
+            "details": {
+              "size": 12337,
+              "image": {
+                "width": 1440,
+                "height": 647
+              }
+            },
+            "fileName": "Group 4.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "1KxMyq2akjnHddYkSDGh1d",
+        "type": "Asset",
+        "createdAt": "2021-08-18T08:53:59.483Z",
+        "updatedAt": "2021-08-18T08:54:19.504Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T08:54:19.504Z",
+        "firstPublishedAt": "2021-08-18T08:54:19.504Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "tote-bag-2 2"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/1KxMyq2akjnHddYkSDGh1d/fdb317715892514ea13e16c8a56c4e51/tote-bag-2_2.png",
+            "details": {
+              "size": 140223,
+              "image": {
+                "width": 404,
+                "height": 427
+              }
+            },
+            "fileName": "tote-bag-2 2.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "34YCEf5fYtizXMWyEPiAxX",
+        "type": "Asset",
+        "createdAt": "2021-08-18T08:55:13.562Z",
+        "updatedAt": "2021-08-18T08:55:25.831Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T08:55:25.831Z",
+        "firstPublishedAt": "2021-08-18T08:55:25.831Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Frame 1"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/34YCEf5fYtizXMWyEPiAxX/f66133958b83434e107a2ec299aa9e43/Frame_1.png",
+            "details": {
+              "size": 6535,
+              "image": {
+                "width": 401,
+                "height": 401
+              }
+            },
+            "fileName": "Frame 1.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "773wv2hz8ZipaeNx4Hquz4",
+        "type": "Asset",
+        "createdAt": "2021-08-18T08:57:32.188Z",
+        "updatedAt": "2021-08-18T08:57:44.614Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T08:57:44.614Z",
+        "firstPublishedAt": "2021-08-18T08:57:44.614Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "image 1"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/773wv2hz8ZipaeNx4Hquz4/df8ea3690369893cb0aa821556422096/image_1.png",
+            "details": {
+              "size": 24153,
+              "image": {
+                "width": 401,
+                "height": 401
+              }
+            },
+            "fileName": "image 1.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "7zwDFSsF5nL43retKereCb",
+        "type": "Asset",
+        "createdAt": "2021-08-18T08:58:59.133Z",
+        "updatedAt": "2021-08-18T08:59:11.200Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-18T08:59:11.200Z",
+        "firstPublishedAt": "2021-08-18T08:59:11.200Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Contentful+icon+-+dark 1"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/7zwDFSsF5nL43retKereCb/129319545ae803e82b1b08361d823978/Contentful_icon_-_dark_1.png",
+            "details": {
+              "size": 22820,
+              "image": {
+                "width": 401,
+                "height": 401
+              }
+            },
+            "fileName": "Contentful+icon+-+dark 1.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "id": "6jwK3UBpnwy7J5bysfcmmk",
+        "type": "Asset",
+        "createdAt": "2021-08-18T09:04:07.149Z",
+        "updatedAt": "2021-08-18T09:04:44.804Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2021-08-18T09:04:44.804Z",
+        "firstPublishedAt": "2021-08-18T09:04:44.804Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Logo"
+        },
+        "description": {
+          "en-US": "Store Logo"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/e864y0payrfo/6jwK3UBpnwy7J5bysfcmmk/d0cd1a75335152a6d1319cc165656b25/Logo.svg",
+            "details": {
+              "size": 4330,
+              "image": {
+                "width": 124,
+                "height": 33
+              }
+            },
+            "fileName": "Logo.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      }
+    }
+  ],
+  "webhooks": [
+    {
+      "name": "Medusa Sync",
+      "url": "https://yourtunnel.com/hooks/contentful",
+      "httpBasicUsername": null,
+      "topics": [
+        "Entry.publish"
+      ],
+      "filters": [
+        {
+          "equals": [
+            {
+              "doc": "sys.environment.sys.id"
+            },
+            "master"
+          ]
+        }
+      ],
+      "transformation": {
+        "contentType": "application/json"
+      },
+      "sys": {
+        "type": "WebhookDefinition",
+        "id": "0zZQaiscoSWW8tSYfEX1xv",
+        "version": 2,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "createdAt": "2021-06-11T10:52:44Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedAt": "2021-08-18T18:22:06Z"
+      },
+      "headers": [
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "Editor",
+      "description": "Allows editing, publishing and archiving of content",
+      "policies": [
+        {
+          "effect": "allow",
+          "actions": "all",
+          "constraint": {
+            "and": [
+              {
+                "equals": [
+                  {
+                    "doc": "sys.type"
+                  },
+                  "Entry"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "effect": "allow",
+          "actions": "all",
+          "constraint": {
+            "and": [
+              {
+                "equals": [
+                  {
+                    "doc": "sys.type"
+                  },
+                  "Asset"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "permissions": {
+        "ContentModel": [
+          "read"
+        ],
+        "Settings": [
+        ],
+        "ContentDelivery": [
+        ],
+        "Environments": [
+        ],
+        "EnvironmentAliases": [
+        ],
+        "Tags": [
+        ]
+      },
+      "sys": {
+        "type": "Role",
+        "id": "1G2ndkdNGkZoYfx6zm1exF",
+        "version": 0,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "e864y0payrfo"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "createdAt": "2021-06-11T06:36:02Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "2rpGMOaSPyCCjR3U7Sf4Ss"
+          }
+        },
+        "updatedAt": "2021-06-11T06:36:02Z"
+      }
+    }
+  ]
+}

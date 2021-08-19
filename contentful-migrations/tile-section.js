@@ -14,7 +14,7 @@ module.exports = function (migration, context) {
       linkType: "Entry",
       validations: [
         {
-          linkContentType: ["tile"],
+          linkContentType: ["tile", "product"],
         },
       ],
     });

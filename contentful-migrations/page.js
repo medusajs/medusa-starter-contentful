@@ -5,6 +5,7 @@ module.exports = function (migration, context) {
     .displayField("title");
 
   page.createField("title").name("Title").type("Symbol");
+  page.createField("slug").name("Slug").type("Symbol");
   page.createField("metaDescription").name("Meta Description").type("Text");
   page
     .createField("contentModules")

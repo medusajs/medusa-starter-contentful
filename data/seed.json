@@ -33,10 +33,42 @@
     ],
     "products": [
       {
-        "title": "Basic T-Shirt",
+        "title": "Medusa Waterbottle",
+        "subtitle": null,
+        "description": "The ultimate way to stay hydrated throughout the day, this waterbottle can contain a liter of your favorite beverage.",
+        "handle": "medusa-bottle",
+        "is_giftcard": false,
+        "images": [],
+        "thumbnail": "",
+        "options": [
+          {
+            "title": "Size"
+          }
+        ],
+        "variants": [
+          {
+            "title": "One Size",
+            "prices": [
+              {
+                "currency_code": "eur",
+                "amount": 1000
+              }
+            ],
+            "options": [
+              {
+                "value": "One Size"
+              }
+            ],
+            "inventory_quantity": 100,
+            "manage_inventory": true
+          }
+        ]
+      },
+      {
+        "title": "Medusa Shirt",
         "subtitle": null,
         "description": "Reimagine the feeling of a classic T-shirt. With our men's Basic cotton T-shirts, everyday essentials no longer have to be ordinary.",
-        "handle": "basic-shirt",
+        "handle": "medusa-shirt",
         "is_giftcard": false,
         "images": [],
         "thumbnail": "",
