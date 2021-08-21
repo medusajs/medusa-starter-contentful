@@ -62,6 +62,7 @@ This starter has prerequisites and most of these will usually already be install
 
 ## Run your project
   ```
+  yarn seed
   medusa develop
   ```
 
@@ -70,8 +71,27 @@ Your local Medusa server is now running on port **9000**.
 Everytime you create or update Products, Product Variants or Regions Contentful and Medusa data will be synced.
 
 ## What's inside
-This starter uses `medusa-plugin-contentful` to synchronize data between your Medusa store and your Contentful space
+This starter uses `medusa-plugin-contentful` to synchronize data between your Medusa store and your Contentful space.
 
+In the `/contentful-migrations` directory you will find migration files to setup content types in Contentful.
+The content types can be used to build pages for your webiste and include:
+
+- **Page**: Represents a page on your website. Each page has a title and can take any number of "Content Modules". Content Modules can be either of the type Hero or Tile Section.
+- **Hero**: a component that can take a Title, CTA and a background image.
+- **Tile**: a component that can be added to a Tile Section and renders a Title, CTA and an Image.
+- **Tile Section**: a component that can hold a number of Tiles or Products. When used with a Product, the Tile Section will display the product thumbnail and it's title and will link to the product page.
+- **Link**: a component that can link to an external or internal path; or, alternatively, hold a reference to a Page or Product entry. If used with Page or Product, the link path will be infered from the referenced entry.
+- **Navigation Item**: an item to include in a Navigation Menu. Each navigation item has a title that can be displayed in a menu and a link that defines where the user will be navigated to when the item is clicked.
+- **Product**: represents a product as syncronized from Medusa. A product's variants will be copied over as well.
+- **Product Variant**: The variants of a product.
+- **Region**: Represents an available region in Medusa.
+
+The the `seed:contentful` script will will use this content modules to add some test data for you to get started with. The test data includes:
+- A home page with a hero, some featured products and the tools used.
+- An about page with a hero that links to the Medusa website.
+- A product overview page that can be configured to show products in the store.
+
+> Note: After seeding your database and starting your server you will have to publish the copied products in Contentful and add them to "Featured Products" Tile Section.
 
 ## Try it out
 
@@ -84,10 +104,13 @@ After the seed script has run you will have the following things in you database
 - a User with the email: admin@medusa-test.com and password: supersecret
 - a Region called Default Region with the countries GB, DE, DK, SE, FR, ES, IT
 - a Shipping Option called Standard Shipping which costs 10 EUR
-- a Product called Cool Test Product with 4 Product Variants that all cost 19.50 EUR
+- a Product called Medusa Shirt with 4 Product Variants that all cost 19.50 EUR
+- a Product called Medusa Waterbottle with 1 Product Variant that all costs 10.00 EUR
 
 
 Visit [docs.medusa-commerce.com](https://docs.medusa-comerce.com) for further guides.
+
+## Thank you!
 
 <p>
   <a href="https://www.medusa-commerce.com">

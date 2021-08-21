@@ -5,7 +5,7 @@
   "author": "Sebastian Rindom <skrindom@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "setup": "./contentful-migrations/index.js",
+    "migrate:contentful": "./contentful-migrations/index.js",
     "import:contentful": "contentful space import --space-id $CONTENTFUL_SPACE_ID --mt $CONTENTFUL_ACCESS_TOKEN --content-file  ./data/contentful-seed.json",
     "seed:contentful": "dotenv-run-script .env -- import:contentful",
     "seed": "medusa seed -f ./data/seed.json",
