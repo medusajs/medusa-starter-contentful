@@ -18,6 +18,10 @@ const migrations = async () => {
   });
   await runMigration({
     ...options,
+    ...{ filePath: `${__dirname}/collection.js` },
+  });
+  await runMigration({
+    ...options,
     ...{ filePath: `${__dirname}/hero.js` },
   });
   await runMigration({
