@@ -12,6 +12,16 @@ module.exports = function (migration, context) {
     .name("Thumbnail")
     .type("Link")
     .linkType("Asset");
+  product
+    .createField("collection_entry")
+    .name("Collection")
+    .type("Link")
+    .linkType("Entry")
+    .validations([
+      {
+        linkContentType: ["collection"],
+      },
+    ]);
   product.createField("description").name("Description").type("Text");
   product.createField("options").name("Options").type("Object");
   product.createField("tags").name("Tags").type("Object");
