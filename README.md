@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.medusa-commerce.com">
+  <a href="https://www.medusajs.com/">
     <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/129161578-19b83dc8-fac5-4520-bd48-53cba676edd2.png" width="100" />
   </a>
 </p>
@@ -113,7 +113,7 @@ Visit [docs.medusa-commerce.com](https://docs.medusa-comerce.com) for further gu
 ## Thank you!
 
 <p>
-  <a href="https://www.medusa-commerce.com">
+  <a href="https://www.medusajs.com/">
     Website
   </a> 
   |
@@ -125,7 +125,7 @@ Visit [docs.medusa-commerce.com](https://docs.medusa-comerce.com) for further gu
     Twitter
   </a>
   |
-  <a href="https://docs.medusa-commerce.com">
+  <a href="https://docs.medusajs.com/>
     Docs
   </a>
 </p>
