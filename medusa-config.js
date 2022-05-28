@@ -1,3 +1,4 @@
+require("dotenv").config();
 // CORS when consuming Medusa from admin
 const ADMIN_CORS = process.env.ADMIN_CORS || "https://app.medusa-commerce.com";
 
