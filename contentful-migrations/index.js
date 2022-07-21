@@ -2,6 +2,7 @@
 
 require("dotenv").config();
 
+const path = require("path");
 const { runMigration } = require("contentful-migration");
 
 const options = {
@@ -12,6 +13,17 @@ const options = {
 };
 
 const migrations = async () => {
+  if (process.argv.length >= 3) {
+    const files = process.argv.slice(2);
+    files.map(async (filePath) => {
+      await runMigration({
+        ...options,
+        ...{ filePath: path.join(process.cwd(), filePath) }
+      })
+    })
+
+    return;
+  }
   await runMigration({
     ...options,
     ...{ filePath: `${__dirname}/link.js` },
